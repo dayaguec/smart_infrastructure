@@ -1,0 +1,12 @@
+[submodule "carla_infrastructure"]
+	path = carla_infrastructure
+	url = https://github.com/dayaguec/carla_infrastructure.git
+[submodule "ros_interfaces/perception_interfaces"]
+	path = ros_interfaces/perception_interfaces
+	url = https://github.com/lsiteam/perception_interfaces.git
+[submodule "ros_interfaces/carla_interfaces"]
+	path = ros_interfaces/carla_interfaces
+	url = https://github.com/lsiteam/carla_interfaces.git
+[submodule "ros_interfaces/cooperation_interfaces"]
+	path = ros_interfaces/cooperation_interfaces
+	url = https://github.com/lsiteam/cooperation_interfaces.git
