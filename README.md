@@ -12,9 +12,7 @@ The objective of the repository is to provide a controlled traffic infrastructur
 
 ## Submodules
 
-* **`carla_vehicle`**: Implements a custom bridge between Carla and ROS2 with standard ROS2 configurations.
-* **`ego_vehicle_description`**: Implements a robot description of a custom ego vehicle for proper `tf` tree generation (ROS compatible).
-* **`map`**: HD Map engine for localization and planning features.
+* **`carla_infrastructure`**: Implements a custom bridge between Carla and ROS2 with standard ROS2 configurations.
 * **`ros_interfaces`**: Folder to store Traffic Scene implementation with custom Road, Perception, Awareness, Behavior, and Cooperation messages.
 
 ## Installation
