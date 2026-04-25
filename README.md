@@ -19,7 +19,7 @@ The objective of the repository is to provide a controlled traffic infrastructur
 
 ```bash
 cd ros2_ws
-git clone [https://github.com/dayaguec/smart_infrastructure.git](https://github.com/dayaguec/smart_infrastructure.git)
+git clone https://github.com/dayaguec/smart_infrastructure.git
 
 # Enter the repository before updating submodules
 cd smart_infrastructure
